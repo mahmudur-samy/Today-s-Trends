@@ -46,3 +46,4 @@ terms.
 ❖ News from Other Sources: In this section, the user can find what
 other sources are saying about a certain topic. The app will have
 news from CNN, BBC etc.
+
